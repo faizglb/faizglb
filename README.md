@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="https://www.instagram.com/YOUR_USERNAME/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohd-faiz-a66432296/" target="_blank">
