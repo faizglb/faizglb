@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/mohd-faiz-a66432296/">
-  <img src="./assets/linkedin-badge.png" height="30"/>
+  <img src="./assets/LINKEDIN.png" height="30"/>
 </a>
 
 My name is Mohd Faiz , and I'm an Computer Science and Engineering student with specialisation in Artificial Intelligence!
