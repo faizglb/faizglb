@@ -1,7 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+My name is Mohd Faiz , and I'm an Computer Science and Engineering student with specialisation in Artificial Intelligence!
+- 🔭 I’m currently working on Shifa, an AI-powered medical postvisit companion.
+- 🌱 I’m currently learning cybersecurity and cloud security.
+- 👯 I’m looking to collaborate on new industry oriented projects.
 <!--
 **faizglb/faizglb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
