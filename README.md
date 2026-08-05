@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.o.h.d__f.a.i.z)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-faiz-a66432296/)
 
 My name is Mohd Faiz , and I'm an Computer Science and Engineering student with specialisation in Artificial Intelligence!
