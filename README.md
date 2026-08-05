@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.o.h.d__f.a.i.z/)
 
 My name is Mohd Faiz , and I'm an Computer Science and Engineering student with specialisation in Artificial Intelligence!
 - 🔭 I’m currently working on Shifa, an AI-powered medical postvisit companion.
