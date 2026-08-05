@@ -1,7 +1,10 @@
 ## Hi there 👋
-[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.o.h.d__f.a.i.z/)
-<a href="https://www.linkedin.com/in/mohd-faiz-a66432296/" target="_blank">
-  <img src="./assets/LINKEDIN.png" alt="LinkedIn" height="34">
+<a href="https://www.instagram.com/YOUR_USERNAME/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohd-faiz-a66432296/">
+  <img src="./assets/linkedin-badge.png" height="30"/>
 </a>
 
 My name is Mohd Faiz , and I'm an Computer Science and Engineering student with specialisation in Artificial Intelligence!
