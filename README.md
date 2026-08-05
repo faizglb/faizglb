@@ -1,6 +1,8 @@
 ## Hi there 👋
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.o.h.d__f.a.i.z/)
-[![LinkedIn](https://img.shields.io/badge/in%20LINKEDIN-0077B5?style=for-the-badge)](https://www.linkedin.com/in/mohd-faiz-a66432296/)
+<a href="https://www.linkedin.com/in/mohd-faiz-a66432296/" target="_blank">
+  <img src="./assets/linkedin-badge.png" alt="LinkedIn" height="28">
+</a>
 
 My name is Mohd Faiz , and I'm an Computer Science and Engineering student with specialisation in Artificial Intelligence!
 - 🔭 I’m currently working on Shifa, an AI-powered medical postvisit companion.
