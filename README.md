@@ -1,8 +1,8 @@
 ## Hi there 👋
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.o.h.d__f.a.i.z/)
 <a href="https://www.linkedin.com/in/mohd-faiz-a66432296/" target="_blank">
-  <img src="./assets/linkedin.png" alt="LinkedIn" width="24" height="24" align="center"/>
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" alt="LinkedIn" height="28"/>
+  <img src="./assets/linkedin.png" alt="LinkedIn" width="20"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" alt="LinkedIn"/>
 </a>
 
 
