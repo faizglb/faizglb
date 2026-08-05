@@ -3,8 +3,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mohd-faiz-a66432296/">
-  <img src="./assets/LINKEDIN.png" height="30"/>
+<a href="https://www.linkedin.com/in/mohd-faiz-a66432296/" target="_blank">
+  <img src="./assets/linkedin-badge-28.png" alt="LinkedIn">
 </a>
 
 My name is Mohd Faiz , and I'm an Computer Science and Engineering student with specialisation in Artificial Intelligence!
